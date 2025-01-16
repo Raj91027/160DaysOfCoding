@@ -1,7 +1,9 @@
 /*
 Check if two Strings are Anagrams of each other
 
-Given two strings s1 and s2 consisting of lowercase characters, the task is to check whether the two given strings are anagrams of each other or not. An anagram of a string is another string that contains the same characters, only the order of characters can be different.
+Given two strings s1 and s2 consisting of lowercase characters, the task is to check whether 
+the two given strings are anagrams of each other or not. 
+An anagram of a string is another string that contains the same characters, only the order of characters can be different.
 
 Examples:
 
@@ -11,7 +13,8 @@ Explanation: Both the string have same characters with same frequency. So, they 
 
 Input: s1 = “allergy”  s2 = “allergic”
 Output: false
-Explanation: Characters in both the strings are not same. s1 has extra character 'y' and s2 has extra characters 'i' and 'c', so they are not anagrams.
+Explanation: Characters in both the strings are not same. s1 has extra character 'y' and 
+s2 has extra characters 'i' and 'c', so they are not anagrams.
 
 Input: s1 = "g", s2 = "g"
 Output: true
