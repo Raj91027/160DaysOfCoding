@@ -67,7 +67,6 @@ Repeat the above process till left is less than right keeping track of the maxim
  // Java Program to find the maximum amount of water in the 
 // container using Two Pointer Technique
 
-import java.util.*;
 
 class ContainerWithMostWater {
     static int maxWater(int[] arr) {
