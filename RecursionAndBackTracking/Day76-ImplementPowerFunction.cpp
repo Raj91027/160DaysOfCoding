@@ -102,7 +102,8 @@ int main() {
 #include <iostream>
 using namespace std;
 
-// Optimized recursive solution to calculate pow(b, e)
+// 
+ recursive solution to calculate pow(b, e)
 
 double power(double b, int e) {
   
